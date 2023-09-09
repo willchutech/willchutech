@@ -1,10 +1,9 @@
-<h1>Hi, I'm William! <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>
+<h1>Hi, I'm William! a Cybersecurity Professional
 
 
 [linkedin]: https://linkedin.com/in/joshmadakor
 
 <!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
